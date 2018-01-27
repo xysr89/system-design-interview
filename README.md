@@ -63,7 +63,7 @@ a good collection of material about [distributed systems](http://dancres.github.
 If you are going to have an onsite with a company, you should read their engineering blog. 
 
 * [High Scalability](http://highscalability.com/)
-* [The GitHub Blog](https://github.com/blog/category/engineering)
+* [The GitHub Blog](https://githubengineering.com/)
 * [Engineering at Quora](http://engineering.quora.com/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Twitter Engineering](https://engineering.twitter.com/)
